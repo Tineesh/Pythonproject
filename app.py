@@ -1,5 +1,2 @@
 print("Hello world")
 print("Tineesh")
-print("Video")
-print("New change ")
-print("a")
