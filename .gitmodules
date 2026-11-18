@@ -1,0 +1,3 @@
+[submodule "fastapi-dem"]
+	path = fastapi-dem
+	url = https://github.com/navinreddy20/fastapi-demo.git
